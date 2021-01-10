@@ -1,0 +1,13 @@
+current directory: /Users/ibitomo/workspace/slack_work/vender/bundle/ruby/2.6.0/gems/json-2.5.1/ext/json
+/Users/ibitomo/.rbenv/versions/2.6.5/bin/ruby -I /Users/ibitomo/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210110-58592-1atevsf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ibitomo/workspace/slack_work/vender/bundle/ruby/2.6.0/gems/json-2.5.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/ibitomo/workspace/slack_work/vender/bundle/ruby/2.6.0/gems/json-2.5.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/ibitomo/workspace/slack_work/vender/bundle/ruby/2.6.0/gems/json-2.5.1/ext/json
+make "DESTDIR=" install
