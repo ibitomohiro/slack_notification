@@ -14,8 +14,8 @@ client = SlackNotify::Client.new(
 
 # client.notify("Hello World!")
 # puts "slack message is sent"
-every(3.second, 'slack') do
-  client.notify('こんにちは')
+every(3.minutes, 'slack') do
+  client.notify('Slack bot testです！')
 end
 
 
